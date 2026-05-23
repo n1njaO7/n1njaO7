@@ -53,40 +53,40 @@ Currently learning and exploring modern frontend frameworks and full-stack devel
 
 <br>
 
-<!-- ------------------ GITHUB STATS HEADER ------------------ -->
+<!-- ==================== GITHUB STATS HEADER (ROBUST VERSION) ==================== -->
 <div align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=36&pause=1200&color=ECECEC&vCenter=true&width=350&height=50&lines=GitHub+Stats" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=36&pause=1200&color=ECECEC&vCenter=true&width=350&height=50&lines=GitHub+Stats" alt="GitHub Stats Header" />
 </div>
-
 <div align="center">
   <table>
     <tr>
       <td align="center" valign="top">
-        <b>GitHub Stats</b><br>
-        <img src="https://github-readme-stats.vercel.app/api?username=n1njaO7&show_icons=true&theme=dark&hide_border=true&cache_seconds=1800" height="180"/>
+        <b>📊 GitHub Stats</b><br>
+        <img src="https://github-readme-stats.vercel.app/api?username=n1njaO7&show_icons=true&theme=dark&hide_border=true&cache_seconds=3600&icon_color=58a6ff&bg_color=0d1117&text_color=c9cacc&title_color=58a6ff" height="180" alt="n1njaO7 GitHub Stats"/>
       </td>
       <td align="center" valign="top">
-        <b>Current Streak</b><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=n1njaO7&theme=dark&hide_border=true" height="180"/>
+        <b>🔥 Current Streak</b><br>
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=n1njaO7&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=fbbf24&currStreakNum=c9cacc&sideNums=c9cacc&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9cacc" height="180" alt="n1njaO7 Current Streak"/>
       </td>
       <td align="center" valign="top">
-        <b>Top Languages</b><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1njaO7&theme=dark&hide_border=true&layout=compact" height="180"/>
+        <b>💻 Top Languages</b><br>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1njaO7&theme=dark&hide_border=true&layout=compact&cache_seconds=3600&bg_color=0d1117&text_color=c9cacc&title_color=58a6ff" height="180" alt="n1njaO7 Top Languages"/>
       </td>
     </tr>
   </table>
   <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=n1njaO7&theme=github-dark&hide_border=true" width="100%" />
-</div>
-
-## **GitHub Trophies**
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=n1njaO7&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=6" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=n1njaO7&theme=github-dark&hide_border=true&point=58a6ff&area=true&area_color=1f6feb" width="100%" alt="n1njaO7 Contribution Graph"/>
 </div>
 
 
 ---
+
+## **GitHub Trophies**
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=n1njaO7/&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=6" />
+</div>
+
 
 
 ## **GitHub Badges & Achievements**
