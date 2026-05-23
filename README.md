@@ -14,6 +14,9 @@
   <a href="https://www.youtube.com/watch?v=VIDEO_ID" target="_blank">
     <img src="giyu-water-breathing.gif" alt="giyu-water-breathing"  width="100%"; height:auto; display:block; margin:0;">
   </a>
+ <p align="right">
+  <i>— Giyu Tomioka</i>
+</p>
 </p>
 
 
