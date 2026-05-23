@@ -1,7 +1,6 @@
  <div align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Montserrat&weight=900&size=48&pause=1200&color=ECECEC&vCenter=true&width=800&height=60&lines=Hi+there,+I'm+Ashmit+%F0%9F%91%8B" alt="Typing SVG" />
   
-  <br>
   <span style="font-size:1.2em; font-weight:700; color:#ececec;">
 
   </span>
@@ -13,9 +12,7 @@
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=VIDEO_ID" target="_blank">
-    <img src="2swA.gif" 
-         alt="Scenic View" 
-         style="width:100%; height:auto; display:block; margin:0;">
+    <img src="giyu-water-breathing.gif" alt="giyu-water-breathing"  width="100%"; height:auto; display:block; margin:0;">
   </a>
 </p>
 
