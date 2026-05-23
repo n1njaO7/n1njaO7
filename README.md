@@ -24,14 +24,14 @@
 ## **Intro**
 
 Following my passion for building interactive and dynamic web applications. I enjoy creating seamless user experiences, developing responsive interfaces, and collaborating on impactful web projects.<br>
-My interests span JavaScript, TypeScript, React, HTML/CSS, and Web Development Best Practices.<br>
-Currently learning and exploring modern frontend frameworks and full-stack development. Diving deep into these. 
+My interests span JavaScript, Express, React,Nodejs and Web Development Best Practices.<br>
+Currently learning and exploring modern Backend frameworks and full-stack development. Diving deep into these. 
 
 ---
 
 ## **About Me**
 
-- Strong foundation in JavaScript, TypeScript, HTML, and CSS.
+- Strong foundation in JavaScript,Nodejs,Express,React
 - Love building functional web applications with clean, maintainable code.
 - Focused on creating user-friendly interfaces and optimal web experiences.
 - Enjoys exploring and learning about web development tools, frameworks, and design patterns.
