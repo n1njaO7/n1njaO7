@@ -58,16 +58,28 @@ Currently learning and exploring modern frontend frameworks and full-stack devel
   <table>
     <tr>
       <td align="center" valign="top">
-        <b>📊 GitHub Stats</b><br>
-        <img src="https://github-readme-stats.vercel.app/api?username=n1njaO7&show_icons=true&theme=dark&hide_border=true&cache_seconds=3600&icon_color=58a6ff&bg_color=0d1117&text_color=c9cacc&title_color=58a6ff" height="180" alt="n1njaO7 GitHub Stats"/>
+<b>📊 GitHub Stats</b><br>
+<img
+  src="https://github-readme-stats-sigma-five.vercel.app/api?username=n1njaO7&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800&icon_color=58a6ff"
+  height="180"
+  alt="n1njaO7 GitHub Stats"
+/>
       </td>
       <td align="center" valign="top">
-        <b>🔥 Current Streak</b><br>
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=n1njaO7&theme=dark&hide_border=true&background=0d1117&stroke=58a6ff&ring=fbbf24&currStreakNum=c9cacc&sideNums=c9cacc&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=c9cacc" height="180" alt="n1njaO7 Current Streak"/>
+     <b>🔥 Current Streak</b><br>
+<img
+  src="https://streak-stats.demolab.com?user=n1njaO7&theme=github-dark-blue&hide_border=true"
+  height="180"
+  alt="n1njaO7 Current Streak"
+/>
       </td>
       <td align="center" valign="top">
-        <b>💻 Top Languages</b><br>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n1njaO7&theme=dark&hide_border=true&layout=compact&cache_seconds=3600&bg_color=0d1117&text_color=c9cacc&title_color=58a6ff" height="180" alt="n1njaO7 Top Languages"/>
+       <b>💻 Top Languages</b><br>
+<img
+  src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=n1njaO7&layout=compact&theme=github_dark&hide_border=true&langs_count=8&cache_seconds=1800"
+  height="180"
+  alt="n1njaO7 Top Languages"
+/>
       </td>
     </tr>
   </table>
@@ -78,22 +90,43 @@ Currently learning and exploring modern frontend frameworks and full-stack devel
 
 ---
 
-## **GitHub Trophies**
+## 🏅 GitHub Progress Dashboard
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=n1njaO7/&theme=darkhub&no-frame=true&no-bg=false&margin-w=4&column=6" />
+
+<table>
+  <tr>
+    <td width="50%" align="center" style="padding: 8px;">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=n1njaO7&theme=tokyonight"
+        width="95%"
+      />
+    </td>
+    <td width="50%" align="center" style="padding: 8px;">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=n1njaO7&theme=tokyonight"
+        width="95%"
+      />
+    </td>
+  </tr>
+
+  <tr>
+   <td width="50%" align="center" style="padding: 8px;">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=n1njaO7&theme=tokyonight"
+        width="95%"
+      />
+    </td>
+  <td width="50%" align="center" style="padding: 8px;">
+      <img 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=n1njaO7&theme=tokyonight&utcOffset=5.5"
+        width="95%"
+      />
+    </td>
+  </tr>
+</table>
+
 </div>
-
-
-
-## **GitHub Badges & Achievements**
-
-<div align="center">
-  <img src="https://img.shields.io/badge/Arctic%20Code%20Vault%20Contributor-blue?logo=github&style=for-the-badge" alt="Arctic Code Vault Contributor" title="Arctic Code Vault Contributor"/>
-  <img src="https://img.shields.io/badge/Star%20Sponsor-yellow?logo=github&style=for-the-badge" alt="GitHub Star Sponsor" title="GitHub Star Sponsor"/>
-  <img src="https://img.shields.io/badge/Developer%20Program%20Member-green?logo=github&style=for-the-badge" alt="Developer Program Member" title="Developer Program Member"/>
-</div>
-
 
 
 ---
@@ -132,6 +165,19 @@ Currently learning and exploring modern frontend frameworks and full-stack devel
 </div>
 
 ---
+
+## ✍️ Dev Quote
+
+<div align="center">
+
+<img
+  src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+  alt="Dev Quote"
+/>
+
+</div>
+
+------
 
 <div align="center">
   <div style="background: linear-gradient(135deg, #0f172a 0%, #1e293b 100%); padding: 20px; border-radius: 10px; border: 1px solid #334155; margin: 20px 0;">
