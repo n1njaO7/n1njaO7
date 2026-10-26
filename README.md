@@ -34,7 +34,7 @@ A bank transaction system built with Node.js, Express.js, and MongoDB.
 - Database operations and aggregation pipelines
 - REST API development
 
-[View Repository →](https://github.com/n1njaO7/Backend-Ledger)
+[View Repository →](https://github.com/n1njaO7/ledger-api)
 
 ### 2. Real-Time Chat Application
 
@@ -44,7 +44,7 @@ A WebSocket-based chat application built with TypeScript.
 - Room creation and joining
 - WebSocket communication
 
-[View Repository →](https://github.com/n1njaO7/Chat-App)
+[View Repository →](https://github.com/n1njaO7/realtime-chat)
 
 ### 3. Course Selling Application
 
@@ -54,7 +54,7 @@ A backend application for course management and purchase workflows.
 - Course management APIs
 - Purchase-related workflows
 
-[View Repository →](https://github.com/n1njaO7/Course-Selling-App)
+[View Repository →](https://github.com/n1njaO7/course-platform-api)
 
 ---
 
